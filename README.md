@@ -80,6 +80,6 @@ cubicBezier.set(c1, c2, begin, end);
 #### 创建一个Point对象
 
 ```js
-var point = CubicBezier.Point(x, y);
+var point = new CubicBezier.Point(x, y);
 ```
 

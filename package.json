@@ -1,6 +1,6 @@
 {
   "name": "cubic-bezier-object",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "三次贝塞尔对象",
   "main": "CubicBezier.js",
   "scripts": {
