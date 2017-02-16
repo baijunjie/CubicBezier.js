@@ -1,5 +1,5 @@
 /*!
- * CubicBezier v1.0.0 - 三次贝塞尔曲线求值
+ * CubicBezier v1.0.1 - 三次贝塞尔曲线求值
  * (c) 2014-2017 BaiJunjie
  * MIT Licensed.
  *

@@ -2,6 +2,12 @@
 
 三次贝塞尔曲线求值
 
+#### 安装
+
+```
+$ npm install cubic-bezier-object
+```
+
 #### 创建一个三次贝塞尔曲线对象
 
 ```js

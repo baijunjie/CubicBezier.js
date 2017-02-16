@@ -1,0 +1,19 @@
+{
+  "name": "cubic-bezier-object",
+  "version": "1.0.1",
+  "description": "三次贝塞尔对象",
+  "main": "CubicBezier.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baijunjie/CubicBezier.js.git"
+  },
+  "author": "baijunjie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baijunjie/CubicBezier.js/issues"
+  },
+  "homepage": "https://github.com/baijunjie/CubicBezier.js#readme"
+}
